@@ -1,7 +1,3 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+[WebR](https://docs.r-wasm.org/webr/latest/)
+WebR - R in the Browser
+WebR is a version of the statistical language [R](https://www.r-project.org/) compiled for the browser and [Node.js](https://nodejs.org/en/) using [WebAssembly](https://webassembly.org/), via [Emscripten](https://emscripten.org/).
